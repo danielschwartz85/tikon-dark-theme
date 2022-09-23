@@ -1,2 +1,3 @@
-# tikon-dark-theme
-Tikon vklaly with dark theme mobile friendly - תיקון הכללי רקע כהה
+# Tikon Haklaly - Dark Theme
+### Tikon vklaly with dark theme mobile friendly | תיקון הכללי רקע כהה
+
